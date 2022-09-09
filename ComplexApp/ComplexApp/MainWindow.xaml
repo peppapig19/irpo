@@ -1,0 +1,58 @@
+﻿<Window x:Class="ComplexApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Комплексные числа" Height="300" Width="600">
+
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Margin="10 0">
+                <Label Content="Комплексное число 1" FontWeight="Bold"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="a" Width="100"/>
+                    <Label Content="+"/>
+                    <TextBox x:Name="b" Width="100"/>
+                    <Label Content="i"/>
+                </StackPanel>
+            </StackPanel>
+            
+            <StackPanel Grid.Column="1">
+                <Label Content="Комплексное число 2" FontWeight="Bold"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="c" Width="100"/>
+                    <Label Content="+"/>
+                    <TextBox x:Name="d" Width="100"/>
+                    <Label Content="i"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+        <Grid HorizontalAlignment="Center" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0">
+                <Button x:Name="Add_button" Content="+" Padding="50 10" Click="Add_button_Click"/>
+                <Button x:Name="Subtract_button" Content="-" Padding="50 10" Click="Subtract_button_Click"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1">
+                <Button x:Name="Multiply_button" Content="*" Padding="50 10" Click="Multiply_button_Click"/>
+                <Button x:Name="Divide_button" Content="/" Padding="50 10" Click="Divide_button_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <Label x:Name="result" Content="Результат" HorizontalContentAlignment="Center"/>
+    </StackPanel>
+</Window>

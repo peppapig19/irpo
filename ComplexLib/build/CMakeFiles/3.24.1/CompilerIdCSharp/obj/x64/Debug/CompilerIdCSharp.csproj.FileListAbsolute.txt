@@ -1,0 +1,7 @@
+C:\Users\peppa\Desktop\ComplexLib\build\CMakeFiles\3.24.1\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\ComplexLib\build\CMakeFiles\3.24.1\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\peppa\Desktop\ComplexLib\build\CMakeFiles\3.24.1\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\ComplexLib\build\CMakeFiles\3.24.1\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.exe
+C:\Users\peppa\Desktop\ComplexLib\build\CMakeFiles\3.24.1\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.pdb
+C:\Users\peppa\Desktop\ComplexLib\build\CMakeFiles\3.24.1\CompilerIdCSharp\CompilerIdCSharp.exe
+C:\Users\peppa\Desktop\ComplexLib\build\CMakeFiles\3.24.1\CompilerIdCSharp\CompilerIdCSharp.pdb

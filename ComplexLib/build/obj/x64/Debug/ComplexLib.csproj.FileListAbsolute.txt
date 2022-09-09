@@ -1,0 +1,6 @@
+C:\Users\peppa\Desktop\ComplexLib\build\Debug\ComplexLib.dll
+C:\Users\peppa\Desktop\ComplexLib\build\Debug\ComplexLib.pdb
+C:\Users\peppa\Desktop\ComplexLib\build\obj\x64\Debug\ComplexLib.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\ComplexLib\build\obj\x64\Debug\ComplexLib.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\ComplexLib\build\obj\x64\Debug\ComplexLib.dll
+C:\Users\peppa\Desktop\ComplexLib\build\obj\x64\Debug\ComplexLib.pdb

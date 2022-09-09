@@ -1,0 +1,10 @@
+^C:\USERS\PEPPA\DESKTOP\COMPLEXLIB\BUILD\CMAKEFILES\BD31E43590E7DAE0A14B914EBFF38D35\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/peppa/Desktop/ComplexLib -BC:/Users/peppa/Desktop/ComplexLib/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/peppa/Desktop/ComplexLib/build/ComplexLib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

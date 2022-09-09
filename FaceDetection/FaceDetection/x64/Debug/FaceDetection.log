@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\peppa\Desktop\FaceDetection\FaceDetection\Source.cpp(28,68): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\peppa\Desktop\FaceDetection\FaceDetection\Source.cpp(28,33): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\peppa\Desktop\FaceDetection\FaceDetection\Source.cpp(29,75): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\peppa\Desktop\FaceDetection\FaceDetection\Source.cpp(29,52): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  FaceDetection.vcxproj -> C:\Users\peppa\Desktop\FaceDetection\x64\Debug\FaceDetection.exe
